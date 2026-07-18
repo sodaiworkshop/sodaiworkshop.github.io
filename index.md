@@ -1,6 +1,6 @@
 ## SODA 2027
 
-### International Workshop on Sustainable Software Operations & Development in the Era of AI (SODA)
+### International Workshop on Sustainable Software Operations & Development in the AI Era (SODA)
 
 *(Formerly known as DevOpsSustain — International Workshop on DevOps for Sustainability)*
 
@@ -10,7 +10,7 @@
 
 Information and communication technologies (ICT) are causing ever-growing energy consumption and carbon emissions. Software is at the center of ICT, from large-scale data centers to personal devices, and the rise of AI-based systems is further accelerating this trend. Thus, improving the energy efficiency of software throughout its development and operation is critical for reducing the energy footprint of ICT and contributing to sustainable development. Modern software engineering practices such as DevOps aim to enhance the velocity of releasing high-quality software through automation and the integration of development and operations responsibilities, while the growing adoption of AI is reshaping both how software is built and how it is operated. On the one hand, fast release cycles and the increasing use of AI pose significant challenges for ensuring the energy efficiency of software and its deployment environment. On the other hand, they also provide great opportunities for enhancing software sustainability, since the tight integration between development and operations allows for continuous collection and analysis of energy consumption data, and AI itself can be leveraged as a tool for optimizing the energy efficiency of software and its deployment environment.
 
-The International Workshop on Sustainable Software Operations & Development in the Era of AI (SODA) provides a platform for researchers and practitioners to discuss the challenges and opportunities at the interplay of software development, operations, and sustainability, with a particular focus on the impact and potential of AI.
+The International Workshop on Sustainable Software Operations & Development in the AI Era (SODA) provides a platform for researchers and practitioners to discuss the challenges and opportunities at the interplay of software development, operations, and sustainability, with a particular focus on the impact and potential of AI.
 
 This workshop edition will explore topics related to:
 
