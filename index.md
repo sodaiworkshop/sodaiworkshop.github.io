@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="soda_workshop_logo.svg" alt="SODA workshop logo" width="200" height="200">
+</p>
+
 ## SODA 2027
 
 ### International Workshop on Sustainable Software Operations & Development in the AI Era (SODA)
