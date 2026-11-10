@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="680" height="680" viewBox="0 0 680 680" role="img" version="1.1"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>SODAI workshop logo</title>
+  <desc>Circular emblem for the International Workshop on Sustainable Software Operations and Development in the Era of AI (SODAI). A DevOps infinity loop joins development and operations; its left lobe holds a leaf (sustainability) and its right lobe a small neural network (AI). Below are the wordmark SODAI and a laurel-style leaf border.</desc>
+  <defs>
+    <path id="topArc" d="M130,340 A210,210 0 0 1 550,340" fill="none"/>
+  </defs>
+
+  <!-- Rings -->
+  <circle cx="340" cy="340" r="300" fill="none" stroke="#157878" stroke-width="6"/>
+  <circle cx="340" cy="340" r="286" fill="none" stroke="#4CAF50" stroke-width="2" opacity="0.6"/>
+  <circle cx="340" cy="340" r="272" fill="#FFFFFF" stroke="#0F5C5C" stroke-width="2"/>
+
+  <text font-size="15" letter-spacing="3" font-weight="600" fill="#157878"
+        font-family="'Segoe UI', Arial, sans-serif">
+    <textPath href="#topArc" xlink:href="#topArc" startOffset="50%" text-anchor="middle">INTERNATIONAL WORKSHOP ON</textPath>
+  </text>
+
+  <!-- DevOps infinity loop: left lobe = Development, right lobe = Operations -->
+  <g fill="none" stroke-width="14" stroke-linecap="round">
+    <path stroke="#157878"
+          d="M340,270 C315,235 285,220 260,220 C230,220 210,245 210,270 C210,295 230,320 260,320 C285,320 315,305 340,270"/>
+    <path stroke="#4CAF50"
+          d="M340,270 C365,235 395,220 420,220 C450,220 470,245 470,270 C470,295 450,320 420,320 C395,320 365,305 340,270"/>
+  </g>
+
+  <!-- Leaf (sustainability) in the left lobe -->
+  <path d="M236,292 C234,258 256,244 288,244 C290,276 270,294 236,292 Z"
+        fill="#66BB6A" stroke="#2E7D32" stroke-width="1.5"/>
+  <path d="M236,292 L282,250" stroke="#2E7D32" stroke-width="1.5" fill="none"/>
+  <path d="M252,277 L250,262 M262,268 L261,254 M252,277 L266,279 M262,268 L276,270"
+        stroke="#2E7D32" stroke-width="1" fill="none" opacity="0.8"/>
+
+  <!-- Neural network (AI) in the right lobe -->
+  <g stroke="#157878" stroke-width="1.5" opacity="0.8">
+    <line x1="398" y1="254" x2="422" y2="270"/>
+    <line x1="398" y1="286" x2="422" y2="270"/>
+    <line x1="398" y1="254" x2="446" y2="254"/>
+    <line x1="398" y1="286" x2="446" y2="286"/>
+    <line x1="422" y1="270" x2="446" y2="254"/>
+    <line x1="422" y1="270" x2="446" y2="286"/>
+  </g>
+  <g fill="#157878" stroke="#FFFFFF" stroke-width="1.5">
+    <circle cx="398" cy="254" r="6"/>
+    <circle cx="398" cy="286" r="6"/>
+    <circle cx="422" cy="270" r="7" fill="#4CAF50"/>
+    <circle cx="446" cy="254" r="6"/>
+    <circle cx="446" cy="286" r="6"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="340" y="410" text-anchor="middle" font-size="84" font-weight="700" letter-spacing="4"
+        fill="#0F5C5C" font-family="'Segoe UI', Arial, sans-serif">SOD<tspan fill="#4CAF50">AI</tspan></text>
+  <line x1="290" y1="424" x2="390" y2="424" stroke="#4CAF50" stroke-width="2"/>
+  <text x="340" y="444" text-anchor="middle" font-size="13" font-weight="600" letter-spacing="1.5"
+        fill="#3A6E6E" font-family="'Segoe UI', Arial, sans-serif">SUSTAINABLE SOFTWARE OPERATIONS &amp; DEVELOPMENT</text>
+  <text x="340" y="464" text-anchor="middle" font-size="13" font-weight="600" letter-spacing="2"
+        fill="#3A6E6E" font-family="'Segoe UI', Arial, sans-serif">IN THE ERA OF AI</text>
+
+  <!-- Laurel branches -->
+  <path d="M230,570 Q265,515 305,485" fill="none" stroke="#4CAF50" stroke-width="2.5"/>
+  <ellipse cx="240" cy="555" rx="11" ry="5" fill="#66BB6A" stroke="#2E7D32" stroke-width="1" transform="rotate(-50 240 555)"/>
+  <ellipse cx="256" cy="530" rx="11" ry="5" fill="#66BB6A" stroke="#2E7D32" stroke-width="1" transform="rotate(-40 256 530)"/>
+  <ellipse cx="276" cy="506" rx="11" ry="5" fill="#66BB6A" stroke="#2E7D32" stroke-width="1" transform="rotate(-30 276 506)"/>
+  <path d="M450,570 Q415,515 375,485" fill="none" stroke="#4CAF50" stroke-width="2.5"/>
+  <ellipse cx="440" cy="555" rx="11" ry="5" fill="#66BB6A" stroke="#2E7D32" stroke-width="1" transform="rotate(50 440 555)"/>
+  <ellipse cx="424" cy="530" rx="11" ry="5" fill="#66BB6A" stroke="#2E7D32" stroke-width="1" transform="rotate(40 424 530)"/>
+  <ellipse cx="404" cy="506" rx="11" ry="5" fill="#66BB6A" stroke="#2E7D32" stroke-width="1" transform="rotate(30 404 506)"/>
+</svg>
