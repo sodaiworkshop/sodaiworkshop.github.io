@@ -1,0 +1,32 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  padding: 2rem 1rem;
+}
+
+.project-name {
+  margin-bottom: 0;
+}
+
+.project-logo {
+  display: block;
+  width: 100%;
+  max-width: 54rem;
+  height: auto;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 42rem) {
+  .page-header {
+    padding: 3rem 4rem;
+  }
+}
+
+@media screen and (min-width: 64rem) {
+  .page-header {
+    padding: 3rem 6rem;
+  }
+}

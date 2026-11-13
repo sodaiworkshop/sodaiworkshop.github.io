@@ -1,10 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <img src="sodai_workshop_logo.svg" alt="SODAI workshop logo" width="200" height="200">
-</p>
+</p> -->
 
-## SODAI 2027
+<!-- ## SODAI 2027
 
-### International Workshop on Sustainable Software Operations & Development in the Era of AI (SODAI 2027)
+### International Workshop on Sustainable Software Operations & Development in the Era of AI (SODAI 2027) -->
 
 *(Previously known as DevOpsSustain — International Workshop on DevOps for Sustainability)*
 
@@ -12,9 +12,10 @@
 
 ### Call for Papers
 
-Information and communication technologies (ICT) are causing ever-growing energy consumption and carbon emissions. Software is at the center of ICT, from large-scale data centers to personal devices, and the rise of AI-powered systems is further accelerating this trend. Thus, improving the energy efficiency of software throughout its development and operation is critical for reducing the energy footprint of ICT and contributing to sustainable development. Modern software engineering practices such as DevOps aim to enhance the velocity of releasing high-quality software through automation and the integration of development and operations responsibilities, while the growing adoption of AI is reshaping both how software is built and how it is operated. On the one hand, fast release cycles and the increasing use of AI pose significant challenges for ensuring the energy efficiency of software and its deployment environment. On the other hand, they also provide great opportunities for enhancing software sustainability, since the tight integration between development and operations allows for continuous collection and analysis of energy consumption data, which can be leveraged as feedback for optimizing the energy efficiency of software and its deployment environment.
+Information and communication technologies (ICT) are causing ever-growing energy consumption and carbon emissions. Software is at the center of ICT, from large-scale data centers to personal devices, and the rise of AI-powered systems is further accelerating this trend. {% comment %} Thus, improving the energy efficiency of software throughout its development and operation is critical for reducing the energy footprint of ICT and contributing to sustainable development. Modern software engineering practices such as DevOps aim to enhance the velocity of releasing high-quality software through automation and the integration of development and operations responsibilities, while the growing adoption of AI is reshaping both how software is built and how it is operated. On the one hand, fast release cycles and the increasing use of AI pose significant challenges for ensuring the energy efficiency of software and its deployment environment. On the other hand, they also provide great opportunities for enhancing software sustainability, since the tight integration between development and operations allows for continuous collection and analysis of energy consumption data, which can be leveraged as feedback for optimizing the energy efficiency of software and its deployment environment. {% endcomment %} As software systems grow more complex and demanding computationally, there is a critical need for integrated, automated practices that reduce energy consumption, minimize carbon footprints, and optimize resource utilization. At the same time, the increasing adoption of AI agents, and other computationally intensive technologies throughout the software development lifecycle introduces new sustainability challenges. Addressing these challenges requires considering not only the efficiency of software systems during execution, but also the sustainability of the processes, tools, and infrastructure used to design, develop, test, deploy, and maintain them. We welcome contributions introducing novel methods, toolchains, empirical studies, and reproducible evaluations that address sustainability across different stages of the software lifecycle. Relevant work may focus on improving the sustainability of the software development process, reducing the environmental impact of software execution and operations, or jointly optimizing both dimensions.
 
-The International Workshop on Sustainable Software Operations & Development in the Era of AI (SODAI 2027), previously known as DevOpsSustain, provides a forum for researchers and practitioners to discuss the challenges and opportunities at the interplay of software development, operations, and sustainability, with a particular focus on the impact and potential of AI.
+
+The International Workshop on Sustainable Software Operations & Development in the Era of AI (SODAI 2027), previously known as DevOpsSustain, provides a forum for researchers and practitioners to discuss the challenges and opportunities at the interplay of software development, operations, and sustainability, in the era AI-powered software.
 
 Topics of interest include, but are not limited to:
 
