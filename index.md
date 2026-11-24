@@ -48,6 +48,8 @@ Papers should be prepared using the ACM double-column conference proceedings for
 
 In order to ensure the fairness of the reviewing process, the workshop will employ a double-anonymous review process where reviewers (except PC chairs) do not know the identity of authors, and authors do not know the identity of reviewers. Papers submitted must not reveal the authors’ identities in any way. More details about the double-anonymous review process will be provided closer to the submission deadline.
 
+Papers should be submitted via the [HotCRP submission site](https://sodai27.hotcrp.com/).
+
 ### Important Dates
 
 To be announced.
